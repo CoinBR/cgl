@@ -1,3 +1,6 @@
 [submodule "cgl-login-sv"]
 	path = cgl-login-sv
 	url = git@github.com:CoinBR/cgl-login-sv.git
+[submodule "cgl-rabbitmq"]
+	path = cgl-rabbitmq
+	url = git@github.com:CoinBR/cgl-rabbitmq.git

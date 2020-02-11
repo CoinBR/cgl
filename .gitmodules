@@ -1,0 +1,3 @@
+[submodule "submodules/loginSV"]
+	path = submodules/loginSV
+	url = git@github.com:CoinBR/cgl__loginSV.git
